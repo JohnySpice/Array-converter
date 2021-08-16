@@ -1,0 +1,22 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "Convert array of sorted numbers in string with collapsed sequence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnySpice/Array-converter.git"
+  },
+  "author": "Tiulkov Viacheslav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnySpice/Array-converter/issues"
+  },
+  "homepage": "https://github.com/JohnySpice/Array-converter#readme",
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  }
+}
