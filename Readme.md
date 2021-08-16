@@ -12,4 +12,4 @@ npm install https://github.com/JohnySpice/Array-converter
 
 ### `convert(array)`
 
-Returns a String with comma separated collapsed sequences of numbers.
+Returns a Promise resolves with String of comma separated collapsed sequences of numbers.
